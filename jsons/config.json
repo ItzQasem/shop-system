@@ -1,0 +1,31 @@
+{
+    "prefix": "$",
+    "botID": "1091235764257427518",
+    "port": 8080,
+    "embedcolor": "YELLOW",
+    "Owners": ["458953942840115214"],
+    "pointsUpRole": ["1112680780116791356"],
+    "staffRoleID": "1112680780116791356",
+    "lineChannel": ["1212084695253262347"],
+    "zajeelChannel": "1212742438406590504",
+    "GeneralChannels": ["1213227944227635270", "1212742438406590504"],
+    "feedbackChannel": "1212474350524170291",
+    "claimCategories": ["1210988102462472192"],
+    "line": "https://www.animatedimages.org/data/media/562/animated-line-image-0363.gif",
+    "colorspic": "https://cdn.discordapp.com/attachments/1211786525138755704/1212072969413730346/486.png?ex=65f081eb&is=65de0ceb&hm=17a7f391402569382922f024755c5dd068130a83d1e6bacd7adae1fd1fc2e9c2&",
+    "suggestions": {
+        "channelID": ["1212501467546648596"],
+    },
+    "apply":{
+        "qustion1": "السؤال 1",
+        "qustion2": "السؤال 2",
+        "qustion3": "السؤال 3",
+        "qustion4": "السؤال 4",
+        "qustion5": "السؤال 5", 
+        "ModerationRoles": ["1096555175570849823"],
+        "acceptedRole": "1112681102285484092",
+        "applyChannel": "1212084695253262347"
+
+    }
+
+}
